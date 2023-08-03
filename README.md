@@ -16,51 +16,42 @@
 
 打通外卖业务全流程，让平台业务处理更高效！
 
-![](https://secure2.wostatic.cn/static/kekF8rQ2Q69CH9ab3mFKqV/image.png?auth_key=1691036653-oFao9PA43px75m5skwK9nq-0-e9795f958d97139f69bb9370a3143293)
-
+![img.png](img.png)
 ## 功能强大的管理后台
 
 高效、易用、功能强大的JAVA后台，才是外卖创业者的首选！
 
-![](https://secure2.wostatic.cn/static/9YF4Xf6ZdnJECc3eMWPcRH/image.png?auth_key=1691036653-wHYQNLSpH9e28rX3c1ciz2-0-3022db07520d93abd6dedca368aa5c87)
-
-![](https://secure2.wostatic.cn/static/rnoPVNTXwSZD2maPFevj1X/image.png?auth_key=1691036653-jE3S1Zhud1AMZgVFnAe9wc-0-470b2c53fcb4f4f3227c278a1bdfba7c)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 
 # 同城外卖平台核心功能
 
 ## 用户端
-
-![](https://secure2.wostatic.cn/static/gVKkWohT9hdRWHqX3jt8fN/image.png?auth_key=1691036653-d15Rvnv6HVQdFzX62iW7Qc-0-3f6869f338f54021778005862d2f4727)
+![img_3.png](img_3.png)
 
 ## 商家
-
-![](https://secure2.wostatic.cn/static/uo7D5VpjPjZajVU2jMPbVy/image.png?auth_key=1691036653-eZxvAcTZiMAxfim6tsHYkz-0-2af428c72fbbb245719d0622cb50957c)
+![img_4.png](img_4.png)
 
 ## 骑手
-
-![](https://secure2.wostatic.cn/static/ef5PqJpvNNr7kT3nRfArnw/image.png?auth_key=1691036653-ozRxjpFyVK1f7ywTQUxMaR-0-a9daba99747cbbc2aab42b4bade1490f)
+![img_5.png](img_5.png)
 
 ## 小程序/APP
-
-![](https://secure2.wostatic.cn/static/oKR18c5FB3KCJqKJZ8cF98/image.png?auth_key=1691036653-hxf9vYpBiCXvPdha3EHXB4-0-176d97dc310e215405dec819e03f0d23)
+![img_6.png](img_6.png)
 
 ## 管理后台
-
-![](https://secure2.wostatic.cn/static/sEn5b6rpyoiQWMcJcJNyu3/image.png?auth_key=1691036653-EWLC9fk1kxYFkeUjuDfPt-0-b40b9dca361fdbc8ff38adab63e6c295)
+![img_7.png](img_7.png)
 
 # 方案优势
 
 ## 支持OEM定制部署
-
 平台管理后台、商家及配送端、APP小程序、公众号等页面，只会出现你自己的品牌LOGO与版权信息
+![img_8.png](img_8.png)
 
-![](https://secure2.wostatic.cn/static/dCiz5yH2JFiyUYECfLLXzE/image.png?auth_key=1691036653-vddWRRbYyQm8hZx73hRL8p-0-a9b3fccb8b2d8b0107b17b53fb2d6983)
 
 ## 飞鹅智能云打印机完美支持
 
 汇匠源外卖o2o与飞鹅打印机的合作，进一步加强了软件与硬件打印的结合，通过简短的几分钟操作即可完成打印机与金优外卖的绑定，实现智能云打印服务，无需另外配备电脑、手机，也无需人工监管打印，打印机在接收到订单后便会自动打印出单。  除支持飞鹅打印机外，金优外卖系统支持所有主流品牌打印机。
-
-![](https://secure2.wostatic.cn/static/vGqEYc5WojyBriwGjGeau3/image.png?auth_key=1691036653-8cTCAWNUULeYnLghUYTrtt-0-08b4f726a0c2c420117a0528d844524a)
+![img_9.png](img_9.png)
 
 ## 系统不断更新
 
